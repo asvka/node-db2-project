@@ -6,4 +6,7 @@ module.exports = {
     connection: {
       filename: './data/car-dealer.db3'
     },
+    seeds: {
+      directory: './data/seeds'
+    }
 };
